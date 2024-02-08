@@ -1,5 +1,7 @@
 # PyMonitor
 This is an **utterly** simple Python implementation which fetches real-time CPU & memory information directly from a Windows host.
+# Screenshot
+![Sample screenshot](https://github.com/GabrielRogd/PyMonitor/assets/52841502/dd824195-96fe-48ec-998f-47f989120e0b)
 # Download
 The source code has been compiled in a way so that the program can run without the existence of Python (alongside the source code's required libraries). It can be found [here](https://github.com/GabrielRogd/PyMonitor/releases).
 # Build
